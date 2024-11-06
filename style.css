@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2 {
+  font-size: 30px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.welcome {
+  text-align: center;
+  color: red;
+}
+
+.more_about  {color: aliceblue;
+  background-image: linear-gradient(45deg, lightSalmon
+   , tomato );}
+.skill_f { font-weight: bold;}
+.myname {
+  font-size: 40px;
+  color: green;
+  font-weight: bold;
+}
+
+.tophalf {
+  background-image: url('images/skull.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  padding:
+}
